@@ -7,4 +7,6 @@
 - 📫 How to reach me: vashafaris@gmail.com
 - ⚡ Fun fact: I am a daydreamer and a night thinker.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashafaris)](https://github.com/vashafaris/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashafaris&layout=compact)](https://github.com/vashafaris/github-readme-stats)
+[![Vasha's github stats](https://github-readme-stats.vercel.app/api?username=vashafaris)](https://github.com/vashafaris/github-readme-stats)
