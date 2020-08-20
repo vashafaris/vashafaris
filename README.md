@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤓 I’m currently working on [cQuran](https://play.google.com/store/apps/details?id=com.cquran&hl=en).
+- 🙌 I’m currently working on [cQuran](https://play.google.com/store/apps/details?id=com.cquran&hl=en).
 - 🌱 I’m currently learning Test Driven Development and Typescript.
 - 👯 I’m looking to collaborate on any social projects.
 - 💬 Ask me about anything you want.
