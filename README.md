@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vashafaris/vashafaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PT Astra Graphia Information Technology as Front End Developer.
@@ -11,6 +8,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: vashafaris@gmail.com
 - ⚡ Fun fact: I am a daydreamer and a night thinker.
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashafaris)](https://github.com/vashafaris/github-readme-stats)
