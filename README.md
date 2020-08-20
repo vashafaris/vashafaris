@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on PT Astra Graphia Information Technology as Front End Developer.
 - 🌱 I’m currently learning Test Driven Development and Typescript.
 - 👯 I’m looking to collaborate on any social project
