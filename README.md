@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PT Astra Graphia Information Technology as Front End Developer.
+- 🤓 I’m currently working on (https://play.google.com/store/apps/details?id=com.cquran&hl=en "cQuran").
 - 🌱 I’m currently learning Test Driven Development and Typescript.
 - 👯 I’m looking to collaborate on any social project
 - 💬 Ask me about anything you want.
