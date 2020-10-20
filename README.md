@@ -6,5 +6,3 @@
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: vashafaris@gmail.com.
 - ⚡ Fun fact: I am a daydreamer and a night thinker.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vashafaris&layout=compact)](https://github.com/vashafaris/github-readme-stats)
