@@ -1,9 +1,6 @@
-<h2 align="left">
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>I'm Vasha Farisi, Software Engineer - Front End :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" alt="Software Engineer GIF" width="500">
-</h2>
+<h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+<h3>I'm Vasha Farisi, Software Engineer - Front End :computer:</h3>
+ <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" alt="Software Engineer GIF" width="500">
 
 <h3 align="left">👨🏻‍💻 About Me:</h3>
     
